@@ -36,6 +36,7 @@ Relation and schema definitions are shared between the client and the server.
 - [ ] - Aurelia
 - [ ] - Ember
 - [ ] - Mithril
+- [ ] - Polymer
 - [x] - [React](https://github.com/js-data/js-data-examples/tree/master/client/react)
 - [ ] - Vue
 
